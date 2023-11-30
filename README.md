@@ -8,6 +8,7 @@
 
 This celestial license grants cosmic freedom:
 
+- **Use and Share**: Anyone can use, modify, and incorporate the cosmic creation into their projects, spreading the cosmic essence far and wide.
 - **Copy and Sell**: Anyone can copy, modify, and sell the cosmic creation.
 - **Retain**: Keep copyright notice, conditions, and disclaimer in redistributions.
 - **Etch**: Cosmic coordinates in binary realms.
