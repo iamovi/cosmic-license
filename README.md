@@ -45,4 +45,6 @@ Copyright (C) [Your Name] - [Year] - [Your Project Name]
 
 Also he full text of the Cosmic License can be found in the [cosmic-license.txt](cosmic-license.txt) file.
 
+---
+
 🌟 Happy coding, cosmic explorer! 🌟
