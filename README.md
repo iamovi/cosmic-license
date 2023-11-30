@@ -43,6 +43,6 @@ Copyright (C) [Your Name] - [Year] - [Your Project Name]
    - All rights not expressly granted herein are reserved. May your cosmic journey be filled with endless discoveries.
 ```
 
-Also he full text of the Cosmic License can be found in the [LICENSE.md](LICENSE.md) file.
+Also he full text of the Cosmic License can be found in the [LICENSE.txt](LICENSE.txt) file.
 
 🌟 Happy coding, cosmic explorer! 🌟
