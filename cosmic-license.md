@@ -1,4 +1,4 @@
-The Cosmic License
+## The Cosmic License
 Version 1.0, December 2023
 
 Copyright (C) [Your Name] - [Year] - [Your Project Name]
