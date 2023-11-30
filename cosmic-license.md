@@ -4,6 +4,7 @@ Version 1.0, December 2023
 
 Copyright (C) [Your Name] - [Year] - [Your Project Name]
 
+
 🌌 **Galactic Grant of License:**
    - Subject to the whimsical wonders of this Cosmic License, bestows upon you a celestial, perpetual, non-exclusive license to surf the cosmic waves, traverse nebulae, and engage in the magic of using, copying, modifying, merging, publishing, distributing, sublicensing, and/or selling copies of the Software (referred to as the "Cosmic Software") across the universe.
 
